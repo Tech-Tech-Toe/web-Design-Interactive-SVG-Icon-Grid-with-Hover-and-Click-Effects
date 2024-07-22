@@ -1,0 +1,13 @@
+.icon {
+    position: relative;
+    width: 100px;
+    cursor: pointer;
+    transition: fill 0.3s ease; 
+    fill: #B0B0B0; 
+}
+
+/* Change color on hover and previous icons as well */
+.icon:hover,
+.icon:hover ~ .icon {
+    fill: #FFD700; /* Golden color */
+}
