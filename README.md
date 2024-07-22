@@ -1,6 +1,4 @@
-Certainly! Here's the `README.md` file in Markdown format, properly structured:
 
-```markdown
 # Interactive SVG Icon Grid
 
 ## Overview
